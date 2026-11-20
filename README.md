@@ -5,8 +5,6 @@ Key highlights of what we built:
 • Exploratory Data Analysis & Visualization: Generated diagnostic charts in matplotlib and analyzed seasonal rest baselines (13.5s summer limit) alongside safety-suit compliance (>= 32.0% threshold).
 • Connected Biosecurity System: Integrated edge monitoring logic (ESP32, OpenCV) with dashboard visualization and structured audit logging.
 
-Grateful to our guide Mr. P. Krishna, M.E., and my teammates Kirubakaran S M, Mowneesh M, and Jayamurugan T D.
-
 Repository: https://github.com/KIRUBAKARAN255/FarmGuard360
 
 #DataExploration #DataVisualization #Python #IoT #ComputerVision #SmartAgriculture #Biosecurity #Engineering
